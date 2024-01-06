@@ -1,4 +1,4 @@
-function add(a, b) {
-  return a + b
+function sentencePrint() {
+  return 'This is a Function'
 }
-module.exports = add
+module.exports = sentencePrint

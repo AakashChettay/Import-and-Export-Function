@@ -1,2 +1,2 @@
-let add = require('./exportFunction.js')
-console.log(add(1, 43))
+let sen = require('./exportFunction.js')
+console.log(sen())
